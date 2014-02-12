@@ -16,6 +16,9 @@ sudo apt-get install subversion
 sudo apt-get install python-qt3 qt3, ipython2, python-svn
 -
 
+Debian jessie:
+     apt-get install python-couchdbkit
+
 -Arch
 
 
